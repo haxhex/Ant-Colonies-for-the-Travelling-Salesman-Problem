@@ -2,7 +2,7 @@ Ant colonies for the Travelling Salesman Problem
 
 Solving Traveling Saleman Problem (TSP) by using Ant Colony Optimization Algorithm (ACO)
 
-by partitioning tasks between Hardware and Software Moduels
+by partitioning tasks between Hardware and Software Modules  
 
 -Which was final project of Hardware and Software Co-design by using SystemC
 

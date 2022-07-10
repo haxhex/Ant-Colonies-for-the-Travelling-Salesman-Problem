@@ -6,6 +6,8 @@ by partitioning tasks between Hardware and Software Modules
 
 -Which was final project of Hardware and Software Co-design by using SystemC
 
+![image](https://user-images.githubusercontent.com/99765893/178144035-011ca18f-eddc-45fc-905a-10ca4db0e9e1.png)
+
 ![image](https://user-images.githubusercontent.com/99765893/178143909-b537a26b-f024-4e61-93c0-a6becdce81b6.png)
 
 ![image](https://user-images.githubusercontent.com/99765893/178143920-d7f0588c-defb-4e73-ba82-9b3a4c32852d.png)
